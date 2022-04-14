@@ -1,0 +1,1 @@
+Este repositório será utilizado para guardar tarefas relacionadas ao GitHub.
